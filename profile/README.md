@@ -1,4 +1,4 @@
-## JetAstra Team —— From the Darkness, We Craft the Light.
+## JetAstra Team —— From the darkness, we craft the light.
 
 <!--
 ![GitHub Org's stars](https://img.shields.io/github/stars/InternLM)
