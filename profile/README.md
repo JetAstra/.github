@@ -11,17 +11,19 @@ Building on these foundations, we created MARTI, a multi-agent system driving br
 
 ## 📚 Paper Lists
 - [Awesome-RL-LLMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) – A curated list of RL for LLMs papers.
-- [Awesome-Diffusion-LLMs](https://github.com/JetAstra/Awesome-DLLMs) – A curated list of diffusion language model papers.
-- [Awesome-Agentic-LongSequence-LLMs](https://github.com/JetAstra/LCLLM) – A curated list of papers on long-sequence modeling within agentic capabilities.
+- [Awesome-Diffusion-LLMs](https://github.com/JetAstra/Awesome-DLLMs) – A curated list of diffusion LLM papers.
+- [Awesome-Agentic-LongSequence-LLMs](https://github.com/JetAstra/LCLLM) – A curated list of papers on long-sequence modeling for Agentic AI.
 
 ## 🤖 Models
-- [Nirvana](https://github.com/InternLM/Intern-S1) – A specialized generalist model with task-aware memory mechanism.
+- [Nirvana](https://github.com/JetAstra/Nirvana) – A specialized generalist model with task-aware memory mechanism.
 - [SDAR](https://github.com/JetAstra/SDAR) – A family of large diffusion language models (1.7B to 30B) combining diffusion and autoregression.
 - [SDAR-VL](https://github.com/JetAstra/SDAR-VL) – The first large-scale block-wise discrete diffusion model for vision-language understanding.
 
 ## 🛠️ System and Applications
 - [MARTI](https://github.com/TsinghuaC3I/MARTI) – A Framework for LLM-based Multi-Agent Reinforced Training and Inference.
 - [MacBench](https://github.com/JetAstra/MacAgentBench) – A macOS benchmark for evaluating AI agents on real desktop workflows, featuring reproducible tasks, rule-based evaluation, and native app support for everyday scenarios.
+
+
 
 
   
