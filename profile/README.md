@@ -7,18 +7,19 @@
 Welcome to the Qi Group @ Shanghai AI Laboratory.
 Our research lies at the intersection of novel model architecture design—including general model specialization (e.g., the Nirvana architecture), hardware-aware optimization for tangible medical impact—and non-autoregressive training methods such as SDAR diffusion models, which bring generation closer to the iterative nature of human mind. Building on these foundations, we have developed the MARTI multi-agent system, driving breakthrough applications in computational chemistry and enabling Nature-level scientific discoveries.
 
-## Paper Lists
-- [Awesome-Diffusion-LLMs](https://github.com/JetAstra/Awesome-DLLMs), detail paper lists of diffusion language models.
-- [Awesome-Agentic-LongSequence-LLMs](https://github.com/JetAstra/LCLLM), detail paper lists of long sequence modeling and Agentic ability.
 
-## Models
-- [Nirvana](https://github.com/InternLM/Intern-S1): A Specialized Genearlist Model With Task-Aware Memory Mechanism.
-- [SDAR](https://github.com/JetAstra/SDAR): a multimodal reasoning model with strong general capabilities and state-of-the-art performance on a wide range of scientific tasks.
-- [SDAR-VL](https://github.com/JetAstra/SDAR-VL) is the first large-scale block-wise discrete diffusion framework for vision-language understanding (VLU).
+## 📚 Paper Lists
+- [Awesome-Diffusion-LLMs](https://github.com/JetAstra/Awesome-DLLMs) – A curated list of diffusion language model papers.
+- [Awesome-Agentic-LongSequence-LLMs](https://github.com/JetAstra/LCLLM) – A curated list of papers on long-sequence modeling within agentic capabilities.
 
-## Applications
-- [MacBench](https://github.com/JetAstra/MacAgentBench): A macOS benchmark for evaluating AI agents on real desktop workflows.
-Reproducible tasks, rule-based evaluation, and native app coverage across everyday work scenarios..
+## 🤖 Models
+- [Nirvana](https://github.com/InternLM/Intern-S1) – A specialized generalist model with task-aware memory mechanism.
+- [SDAR](https://github.com/JetAstra/SDAR) – A family of large diffusion language models (1.7B to 30B) combining diffusion and autoregression.
+- [SDAR-VL](https://github.com/JetAstra/SDAR-VL) – The first large-scale block-wise discrete diffusion model for vision-language understanding.
+
+## 🛠️ Applications
+- [MacBench](https://github.com/JetAstra/MacAgentBench) – A macOS benchmark for evaluating AI agents on real desktop workflows, featuring reproducible tasks, rule-based evaluation, and native app support for everyday scenarios.
+
 
   
 <!--
