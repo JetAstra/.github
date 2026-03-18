@@ -5,9 +5,7 @@
 -->
 
 Welcome to the Qi Group @ Shanghai AI Laboratory.
-
 We are dedicated to open-sourcing high-quality LLMs, MLLMs, and end-to-end toolchains for development and application.
-
 Our research lies at the intersection of novel model architecture design—including general model specialization (e.g., the Nirvana architecture), hardware-aware optimization for tangible medical impact—and non-autoregressive training methods such as SDAR diffusion models, which bring generation closer to the iterative nature of human mind. Building on these foundations, we have developed the MARTI multi-agent system, driving breakthrough applications in computational chemistry and enabling Nature-level scientific discoveries.
 
 ## Paper Lists
