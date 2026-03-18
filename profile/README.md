@@ -4,8 +4,10 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/InternLM)
 -->
 
-Our Team lie at the intersection of novel model architecture design—including general model specialization (e.g., the Nirvana architecture), hardware-aware optimization for tangible medical impact—and non-autoregressive training methods such as SDAR diffusion models, which bring generation closer to the iterative nature of human mind. Building on these foundations, we have developed the MARTI multi-agent system, driving breakthrough applications in computational chemistry and enabling Nature-level scientific discoveries.
+Our mission is to redesign how AI thinks, learns, and discovers.
 
+We build architectures that bridge human-like reasoning and real-world impact—from specialized generalist models (Nirvana) and hardware-aware systems for medicine, to non-autoregressive diffusion models (SDAR) that mirror the iterative nature of the human mind.
+Building on these foundations, we created MARTI, a multi-agent system driving breakthroughs in computational chemistry and enabling discoveries at a Nature-worthy scale.
 
 ## 📚 Paper Lists
 - [Awesome-Diffusion-LLMs](https://github.com/JetAstra/Awesome-DLLMs) – A curated list of diffusion language model papers.
