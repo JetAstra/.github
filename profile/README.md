@@ -10,6 +10,7 @@ We build architectures that bridge human-like reasoning and real-world impact—
 Building on these foundations, we created MARTI, a multi-agent system driving breakthroughs in computational chemistry and enabling discoveries at a Nature-worthy scale.
 
 ## 📚 Paper Lists
+- [Awesome-RL-LLMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) – A curated list of RL for LLMs papers.
 - [Awesome-Diffusion-LLMs](https://github.com/JetAstra/Awesome-DLLMs) – A curated list of diffusion language model papers.
 - [Awesome-Agentic-LongSequence-LLMs](https://github.com/JetAstra/LCLLM) – A curated list of papers on long-sequence modeling within agentic capabilities.
 
@@ -18,7 +19,8 @@ Building on these foundations, we created MARTI, a multi-agent system driving br
 - [SDAR](https://github.com/JetAstra/SDAR) – A family of large diffusion language models (1.7B to 30B) combining diffusion and autoregression.
 - [SDAR-VL](https://github.com/JetAstra/SDAR-VL) – The first large-scale block-wise discrete diffusion model for vision-language understanding.
 
-## 🛠️ Applications
+## 🛠️ System and Applications
+- [MARTI](https://github.com/TsinghuaC3I/MARTI) – A Framework for LLM-based Multi-Agent Reinforced Training and Inference.
 - [MacBench](https://github.com/JetAstra/MacAgentBench) – A macOS benchmark for evaluating AI agents on real desktop workflows, featuring reproducible tasks, rule-based evaluation, and native app support for everyday scenarios.
 
 
