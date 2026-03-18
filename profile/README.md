@@ -7,7 +7,7 @@
 Our mission is to redesign how AI thinks, learns, and discovers.
 
 We build architectures that bridge human-like reasoning and real-world impact—from specialized generalist models (Nirvana) and hardware-aware systems for medicine, to non-autoregressive diffusion models (SDAR) that mirror the iterative nature of the human mind.
-Building on these foundations, we created MARTI, a multi-agent system driving breakthroughs in computational chemistry and enabling discoveries at a Nature-worthy scale.
+Building on these foundations, we created MARTI—a multi-agent system that is already driving breakthroughs in computational chemistry and enabling discoveries at a level worthy of Nature.
 
 ## 📚 Paper Lists
 - [Awesome-RL-LLMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) – A curated list of RL for LLMs papers.
