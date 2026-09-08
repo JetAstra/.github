@@ -22,6 +22,7 @@ Building on these foundations, we created MARTI—a multi-agent system that is a
 ## 🛠️ System and Applications
 - [MARTI](https://github.com/TsinghuaC3I/MARTI) – A Framework for LLM-based Multi-Agent Reinforced Training and Inference.
 - [MacBench](https://github.com/JetAstra/MacAgentBench) – A macOS benchmark for evaluating AI agents on real desktop workflows, featuring reproducible tasks, rule-based evaluation, and native app support for everyday scenarios.
+- [Arche](https://github.com/JetAstra/Arche-Harness)- A novel multi-agent system enables highly sensitive computational chemistry discovery, delivering Nature-level performance.
 
 
 
