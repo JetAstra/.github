@@ -15,6 +15,7 @@ Building on these foundations, we created MARTI—a multi-agent system that is a
 - [Awesome-Agentic-LongSequence-LLMs](https://github.com/JetAstra/LCLLM) – A curated list of papers on long-sequence modeling for Agentic AI.
 
 ## 🤖 Models
+- [PI-Mem](https://github.com/JetAstra/PI-Mem) - An Agentic Framework for Processing Ultra-Long Sequences.
 - [Nirvana](https://github.com/JetAstra/Nirvana) – A specialized generalist model with task-aware memory mechanism.
 - [SDAR](https://github.com/JetAstra/SDAR) – A family of large diffusion language models (1.7B to 30B) combining diffusion and autoregression.
 - [SDAR-VL](https://github.com/JetAstra/SDAR-VL) – The first large-scale block-wise discrete diffusion model for vision-language understanding.
